@@ -9,6 +9,8 @@ Based on the books:
 * Python for Data Science Handbook, by Jake VanderPlas.
 
 * Statistics and Machine Learning in Python, by Edouard Duchesnay.
+
+* Practical Statistics for Data Scientists, by Peter Bruce.
   
 
 Based on the course:
