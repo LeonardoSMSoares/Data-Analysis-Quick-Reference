@@ -11,6 +11,8 @@ Based on the books:
 * Statistics and Machine Learning in Python, by Edouard Duchesnay.
 
 * Practical Statistics for Data Scientists, by Peter Bruce.
+
+* A Python Data Analyst’s Toolkit, by Gayathri Rajagopalan.
   
 
 Based on the course:
