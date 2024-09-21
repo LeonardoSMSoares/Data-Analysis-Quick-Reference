@@ -12,7 +12,7 @@ Based on the books:
 
 * Practical Statistics for Data Scientists, by Peter Bruce.
 
-* A Python Data Analyst’s Toolkit, by Gayathri Rajagopalan.
+* Python Data Analyst’s Toolkit, by Gayathri Rajagopalan.
   
 
 Based on the course:
