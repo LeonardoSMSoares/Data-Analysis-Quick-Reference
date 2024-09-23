@@ -13,6 +13,8 @@ Based on the books:
 * Practical Statistics for Data Scientists, by Peter Bruce.
 
 * Python Data Analyst’s Toolkit, by Gayathri Rajagopalan.
+
+* Python Data Analysis, by Avinhash Navlani
   
 
 Based on the course:
