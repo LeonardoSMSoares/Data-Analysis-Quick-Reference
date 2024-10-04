@@ -14,6 +14,8 @@ Based on the books:
 
 * Python Data Analyst’s Toolkit, by Gayathri Rajagopalan.
 
+* Python Data Analysis, 3rd Edition, by Avinash Navlani. 
+
 * Machine Learning Pocket Reference, by Matt Harrison.
   
 
