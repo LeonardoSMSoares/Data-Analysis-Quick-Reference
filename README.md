@@ -19,7 +19,8 @@ Based on the books:
 * Machine Learning Pocket Reference, by Matt Harrison.
 
 * Learn AI with Python, by Gaurav Leekha.
-  
+
+* Practical Statistics for Data Scientists, by Peter Bruce.
 
 Based on the course:
 
