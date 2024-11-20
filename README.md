@@ -20,8 +20,6 @@ Based on the books:
 
 * Learn AI with Python, by Gaurav Leekha.
 
-* Practical Statistics for Data Scientists, by Peter Bruce.
-
 Based on the course:
 
 * Python Statistics Essential Training, by Matt Harrison
