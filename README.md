@@ -19,7 +19,6 @@ Based on the books:
 * Machine Learning Pocket Reference, by Matt Harrison.
 
 * Learn AI with Python, by Gaurav Leekha.
-  
 
 Based on the course:
 
