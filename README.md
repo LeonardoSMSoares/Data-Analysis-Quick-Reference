@@ -20,6 +20,8 @@ Based on the books:
 
 * Learn AI with Python, by Gaurav Leekha.
 
+* Essential Statistics for Non-STEM Data Analysts, by Rongpeng Li.
+
 Based on the course:
 
 * Python Statistics Essential Training, by Matt Harrison
