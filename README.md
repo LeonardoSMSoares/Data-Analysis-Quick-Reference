@@ -22,6 +22,8 @@ Based on the books:
 
 * Essential Statistics for Non-STEM Data Analysts, by Rongpeng Li.
 
+* Statistics and Data Visualisation with Python, by Jesús Rogel-Salazar.
+
 Based on the course:
 
 * Python Statistics Essential Training, by Matt Harrison
