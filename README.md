@@ -24,6 +24,8 @@ Based on the books:
 
 * Statistics and Data Visualisation with Python, by Jesús Rogel-Salazar.
 
+* Applied Univariate, Bivariate, and Multivariate Statistics Using Python, by Daniel J. Denis.
+
 Based on the course:
 
 * Python Statistics Essential Training, by Matt Harrison
